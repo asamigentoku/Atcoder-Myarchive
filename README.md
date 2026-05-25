@@ -1,1 +1,10 @@
-# Atcoder-Myarchive
+# AtCoder Archive
+
+過去のコードと成果をまとめたリポジトリです。
+
+## 内容
+- AtCoderの提出コード
+- 解いた問題の記録
+
+## 使用言語
+- C++
