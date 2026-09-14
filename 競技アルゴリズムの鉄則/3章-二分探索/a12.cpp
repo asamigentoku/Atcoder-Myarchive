@@ -1,0 +1,3 @@
+// https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_l
+
+#include <iostream>
